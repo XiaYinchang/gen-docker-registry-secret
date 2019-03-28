@@ -10,7 +10,7 @@ require (
 	golang.org/x/sys v0.0.0-20190322080309-f49334f85ddc // indirect
 	golang.org/x/tools v0.0.0-20190328030505-8f05a32dce9f // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
-	k8s.io/api v0.0.0-20190327184913-92d2ee7fc726
-	k8s.io/apimachinery v0.0.0-20190326224424-4ceb6b6c5db5
+  k8s.io/api kubernetes-1.13.4
+  k8s.io/apimachinery kubernetes-1.13.4
 	k8s.io/klog v0.2.0 // indirect
 )
